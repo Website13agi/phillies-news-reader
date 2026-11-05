@@ -1,16 +1,16 @@
 [
   {
+    "id": "e1dba817e4471f7fd8a3f095d8a6c2fc5d7d4261",
+    "title": "LIVE: Watch Phillies prospects in Arizona Fall League action",
+    "url": "https://www.mlb.com/phillies/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
+    "published": "2026-11-05T01:25:00+00:00",
+    "source": "MLB.com Phillies"
+  },
+  {
     "id": "46d63c4e5b2928f8cf269d49f12824885c992552",
     "title": "Latest Phillies injuries & transactions",
     "url": "https://www.mlb.com/phillies/news/phillies-injuries-and-roster-moves",
     "published": "2026-11-04T20:14:00+00:00",
-    "source": "MLB.com Phillies"
-  },
-  {
-    "id": "e1dba817e4471f7fd8a3f095d8a6c2fc5d7d4261",
-    "title": "Watch Phillies prospects in Arizona Fall League action",
-    "url": "https://www.mlb.com/phillies/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
-    "published": "2026-11-04T20:01:00+00:00",
     "source": "MLB.com Phillies"
   },
   {
@@ -42,9 +42,9 @@
     "source": "Phillies Nation"
   },
   {
-    "id": "229b44f367264f6ba23f51a1029ab397e8132ee7",
+    "id": "025efed972a0731004a389db2a442007a0c7b740",
     "title": "Phillies Discussion (11/1/2026)",
-    "url": "http://phuturephillies.com/2026/11/02/phillies-discussion-11-1-2026/",
+    "url": "https://phuturephillies.com/2026/11/02/phillies-discussion-11-1-2026/",
     "published": "2026-11-02T09:15:07+00:00",
     "source": "Phuture Phillies"
   },
@@ -147,13 +147,6 @@
     "source": "MLB.com Phillies"
   },
   {
-    "id": "dacd588d68a6191a60565e66c9d5ba5f92313d70",
-    "title": "Long, Dickerson will not return to Phillies staff in '27",
-    "url": "https://www.mlb.com/phillies/news/phillies-part-ways-with-kevin-long-bobby-dickerson",
-    "published": "2026-10-16T19:12:00+00:00",
-    "source": "MLB.com Phillies"
-  },
-  {
     "id": "ead13a0796f40a8a58f601a662c7139f51db9dd6",
     "title": "Phillies bring back Mayza on 1-year deal",
     "url": "https://www.mlb.com/phillies/news/tim-mayza-re-signed-by-phillies",
@@ -161,9 +154,9 @@
     "source": "MLB.com Phillies"
   },
   {
-    "id": "df3025d76520beed0b8688dc9cc4f4fc96b514d5",
+    "id": "244f2a90dedccb033027494a9c1e92b3d787fe56",
     "title": "Phillies Discussion (10/15/2026)",
-    "url": "http://phuturephillies.com/2026/10/16/phillies-discussion-10-15-2026/",
+    "url": "https://phuturephillies.com/2026/10/16/phillies-discussion-10-15-2026/",
     "published": "2026-10-16T06:00:12+00:00",
     "source": "Phuture Phillies"
   },
@@ -189,23 +182,23 @@
     "source": "MLB.com Phillies"
   },
   {
-    "id": "a2a9319c6a6aef0a5b4d0b1028e195a643f591f0",
+    "id": "afdf2473a567ead2e26c440e8e55d29fd46c4724",
     "title": "2026-27 Offseason Roster and Payroll Information",
-    "url": "http://phuturephillies.com/2026/10/05/2026-27-offseason-roster-and-payroll-information/",
+    "url": "https://phuturephillies.com/2026/10/05/2026-27-offseason-roster-and-payroll-information/",
     "published": "2026-10-05T17:30:07+00:00",
     "source": "Phuture Phillies"
   },
   {
-    "id": "6d823d5f81394cc8fcebcf95b00b213edcf90167",
+    "id": "bbfd947c051eead4346c68e47ca267ff4bc21cbf",
     "title": "2026-27 Winter Ball",
-    "url": "http://phuturephillies.com/2026/10/03/2026-27-winter-ball/",
+    "url": "https://phuturephillies.com/2026/10/03/2026-27-winter-ball/",
     "published": "2026-10-03T06:47:25+00:00",
     "source": "Phuture Phillies"
   },
   {
-    "id": "109bd2dbfd978f3c28563e78f67874c60537d3df",
+    "id": "fdfa90dd7f2bbb629384db3c99f08d4b4e947a31",
     "title": "Phillies Discussion (9/27/2026)",
-    "url": "http://phuturephillies.com/2026/09/27/phillies-discussion-9-27-2026/",
+    "url": "https://phuturephillies.com/2026/09/27/phillies-discussion-9-27-2026/",
     "published": "2026-09-28T00:00:40+00:00",
     "source": "Phuture Phillies"
   },
